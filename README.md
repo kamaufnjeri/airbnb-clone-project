@@ -43,8 +43,31 @@ A booking system thrives on simplicity and clarity. Users need to find propertie
 
 ### **More UI/UX Design Planning**
 #### **Figma Environment**
-| **Element**             | **Color** | **Font Family** | **Font Size** | **Font Weight** |
--------------------------------------------------------------------------------------------
+| **Element**             | **Color**         | **Background**    | **Font Family**         | **Font Size**     | **Font Weight**     |
+|-------------------------|-------------------|-------------------|-------------------------|-------------------|---------------------|
+| Button - Sign in        | #FFFFFF           | #34967C           | SF Pro Display          | 17px              | 400                 |
+| Button - Sign Up        | #000000           | #ECECEC           | SF Pro Display          | 17px              | 400                 |
+| Hero Section            | #FFFFFF           | Image             | Source Sans Pro         | 94px              | 600                 |
+
+##### **Colors**
+- **Main Text Color**: #161117
+- **Main Background**: #E9E9E9
+  
+##### **Typography**
+- **Font Family:** Quicksand
+
+- **Font Weights:**
+
+-- Main Heading: 600 (Bold)
+-- Subheading: 500 (Medium)
+-- Normal Text: 400 (Regular)
+
+- **Font Sizes:**
+
+-- Main Heading: 22px
+-- Subheading: 19px
+-- Normal Text: 17px
+
 
 #### **Importance of Design Properties**
 Identifying design properties is essential for maintaining consistency, improving the development process, and ensuring the mockup translates into the actual application seamlessly. A well-defined design system:
