@@ -58,15 +58,15 @@ A booking system thrives on simplicity and clarity. Users need to find propertie
 
 - **Font Weights:**
 
--- Main Heading: 600 (Bold)
--- Subheading: 500 (Medium)
--- Normal Text: 400 (Regular)
+  - Main Heading: 600 (Bold)
+  - Subheading: 500 (Medium)
+  - Normal Text: 400 (Regular)
 
 - **Font Sizes:**
 
--- Main Heading: 22px
--- Subheading: 19px
--- Normal Text: 17px
+  - Main Heading: 22px
+  - Subheading: 19px
+  - Normal Text: 17px
 
 
 #### **Importance of Design Properties**
